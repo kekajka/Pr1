@@ -3,7 +3,6 @@ using System.Windows;
 using Microsoft.Win32;
 using System.Data;
 using LibMas;
-using Lib_14;
 
 namespace Pr1
 {
